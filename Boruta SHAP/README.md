@@ -2,9 +2,9 @@
 
 Article 1: *Using SHAP Values to explain how your machine learning model works* (TBD)
 
-[EN] What are SHAP values and how they explain the effect each feature of the model has on the prediction. How to use the SHAP library and their plots. How SHAP values are calculated.
+[EN] What are SHAP values and how they explain the effect each feature of the model has on the prediction. How to use the SHAP library and their plots.
 
-[PT-BR] O que são os SHAP values e como eles explicam o efeito que cada feature do modelo tem na predição final. Como usar a biblioteca SHAP e seus gráficos. Como os SHAP values são calculados.
+[PT-BR] O que são os SHAP values e como eles explicam o efeito que cada feature do modelo tem na predição final. Como usar a biblioteca SHAP e seus gráficos.
 
 __
 
@@ -17,6 +17,10 @@ ___
 
 ## Content
 
+*SHAP Values.ipynb"
+
+Main notebook used for creating the examples of Article 1.
+
 *Boruta SHAP Feature Selection.ipynb*
 
-Main notebook used for creating the examples of the articles.
+Main notebook used for creating the examples of Article 2.

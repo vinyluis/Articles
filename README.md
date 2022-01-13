@@ -16,7 +16,7 @@ __
 
 ## Comparing robustness of MAE MSE and RMSE
 
-Article: *Comparing robustness of MAE MSE and RMSE* (TBD)
+Article: *Comparing robustness of MAE MSE and RMSE* [[EN]](https://towardsdatascience.com/comparing-robustness-of-mae-mse-and-rmse-6d69da870828)
 
 Explains how MAE, MSE and RMSE metrics for regression evaluation are affected by the presence of outliers, then performs an experiment to illustrate this effect.
 

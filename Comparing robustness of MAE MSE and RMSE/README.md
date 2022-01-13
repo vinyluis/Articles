@@ -2,7 +2,7 @@
 
 Article: *Comparing robustness of MAE MSE and RMSE*
 
-[EN] Explains how MAE, MSE and RMSE metrics for regression evaluation are affected by the presence of outliers, then performs an experiment to illustrate this effect.
+[[EN]](https://towardsdatascience.com/comparing-robustness-of-mae-mse-and-rmse-6d69da870828) Explains how MAE, MSE and RMSE metrics for regression evaluation are affected by the presence of outliers, then performs an experiment to illustrate this effect.
 
 [PT-BR] Explica como as métricas MAE, MSE and RMSE, usadas para avaliação de regressores, são afetadas pela presença de outliers. Na sequência um experimento prático ilustra esse efeito.
 
