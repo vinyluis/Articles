@@ -55,3 +55,13 @@ Introduction to the Kolmogorov-Smirnov (KS) test, and how it is used in normalit
 Article 2: *Evaluating classification models with Kolmogorov-Smirnov test* (TBD)
 
 How to use the KS test as a tool to evaluate class separability on binary classifiers. Experimental approach comparing three different classification scenarios.
+
+__
+
+## Target Encoder
+
+Article: *Understanding Target Encoder* (TBD)
+
+Introduction to the idea behind Target Encoder, code examples and potential problems when using it. How to use Target Encoding in multiclass scenarios.
+
+__

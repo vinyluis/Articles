@@ -24,3 +24,7 @@ Main notebook used for creating the examples of Article 1.
 *Boruta SHAP Feature Selection.ipynb*
 
 Main notebook used for creating the examples of Article 2.
+
+*images/*
+
+Folder with the images used on the article.
