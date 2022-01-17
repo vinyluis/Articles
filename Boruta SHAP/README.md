@@ -1,8 +1,8 @@
 # Boruta SHAP
 
-Article 1: *Using SHAP Values to explain how your machine learning model works* (TBD)
+Article 1: *Using SHAP Values to explain how your machine learning model works*
 
-[EN] What are SHAP values and how they explain the effect each feature of the model has on the prediction. How to use the SHAP library and their plots.
+[[EN]](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137) What are SHAP values and how they explain the effect each feature of the model has on the prediction. How to use the SHAP library and their plots.
 
 [PT-BR] O que são os SHAP values e como eles explicam o efeito que cada feature do modelo tem na predição final. Como usar a biblioteca SHAP e seus gráficos.
 
