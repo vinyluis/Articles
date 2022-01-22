@@ -6,14 +6,6 @@ Note: some articles may be in Brazilian Portuguese.
 
 # Table of Contents
 
-## Como funcionam as CNNs 
-
-Article: *Como funcionam as Redes Neurais Convolucionais (CNNs)* [[PT-BR]](https://medium.com/@vinicius_trevisan/como-funcionam-as-redes-neurais-convolucionais-cnns-71978185c1)
-
-Fundamentals  of CNNs, and a quick explanation of how they work and how features such as kernel size, stride and padding affect their output.
-
-__
-
 ## Comparing robustness of MAE MSE and RMSE
 
 Article: *Comparing robustness of MAE MSE and RMSE* [[EN]](https://towardsdatascience.com/comparing-robustness-of-mae-mse-and-rmse-6d69da870828)
@@ -63,5 +55,13 @@ __
 Article: *Understanding Target Encoder* (TBD)
 
 Introduction to the idea behind Target Encoder, code examples and potential problems when using it. How to use Target Encoding in multiclass scenarios.
+
+__
+
+## Como funcionam as CNNs 
+
+Article: *Como funcionam as Redes Neurais Convolucionais (CNNs)* [[PT-BR]](https://medium.com/@vinicius_trevisan/como-funcionam-as-redes-neurais-convolucionais-cnns-71978185c1)
+
+Fundamentals  of CNNs, and a quick explanation of how they work and how features such as kernel size, stride and padding affect their output.
 
 __
