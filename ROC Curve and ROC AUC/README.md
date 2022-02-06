@@ -1,6 +1,6 @@
 # ROC Curve and ROC AUC
 
-Article 1: *Interpreting ROC Curve and ROC AUC for Classification Evaluation* (TBD)
+Article 1: *Interpreting ROC Curve and ROC AUC for Classification Evaluation* [[EN]](https://towardsdatascience.com/interpreting-roc-curve-and-roc-auc-for-classification-evaluation-28ec3983f077)
 
 [EN] What are ROC Curves, how to interpret and use them to evaluate binary classification models. How to build ROC Curves from scratch. What is Area Under ROC Curve (ROC AUC / AUROC) and how it is used to evaluate binary classification models.
 
