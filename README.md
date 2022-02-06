@@ -58,9 +58,13 @@ Introduction to the idea behind Target Encoder, code examples and potential prob
 
 __
 
-## Como funcionam as CNNs 
+## Understanding Convolutional Neural Networks - CNNs
 
-Article: *Como funcionam as Redes Neurais Convolucionais (CNNs)* [[PT-BR]](https://medium.com/@vinicius_trevisan/como-funcionam-as-redes-neurais-convolucionais-cnns-71978185c1)
+Article: 
+
+*Understanding Convolutional Neural Networks (CNNs)* [EN] (TBD)
+
+*Como funcionam as Redes Neurais Convolucionais (CNNs)* [[PT-BR]](https://medium.com/@vinicius_trevisan/como-funcionam-as-redes-neurais-convolucionais-cnns-71978185c1)
 
 Fundamentals  of CNNs, and a quick explanation of how they work and how features such as kernel size, stride and padding affect their output.
 
