@@ -2,7 +2,7 @@
 
 Article 1: *Comparing sample distributions with Kolmogorov-Smirnov test* (TBD)
 
-[EN] Introduction to the Kolmogorov-Smirnov (KS) test, and how it is used in normality tests. How to use KS tests to compare two samples and discover if they come from the same distribution. 
+[[EN]](https://towardsdatascience.com/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5) Introduction to the Kolmogorov-Smirnov (KS) test, and how it is used in normality tests. How to use KS tests to compare two samples and discover if they come from the same distribution. 
 
 [PT-BR] Introdução ao teste Kolmogorov-Smirnov (KS) e como ele é usado em testes de normalidade. Como usar o teste KS para comparar duas amostras e descobrir se elas vem da mesma distribuição.
 

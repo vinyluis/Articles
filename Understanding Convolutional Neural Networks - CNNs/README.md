@@ -19,6 +19,10 @@ ___
 
 Main notebook used for creating the examples of the article.
 
+*Convolution Operator.ipynb*
+
+Notebook used to illustrate how the convolution operator works.
+
 *Canny Edges.ipynb*
 
 Notebook that implements the Canny Edges Detector, used to create the highlight image for the article.

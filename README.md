@@ -40,7 +40,7 @@ __
 
 ## Kolmogorov-Smirnov
 
-Article 1: *Comparing sample distributions with Kolmogorov-Smirnov test* (TBD)
+Article 1: *Comparing sample distributions with Kolmogorov-Smirnov test* [[EN]](https://towardsdatascience.com/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5)
 
 Introduction to the Kolmogorov-Smirnov (KS) test, and how it is used in normality tests. How to use KS tests to compare two samples and discover if they come from the same distribution. 
 
