@@ -50,6 +50,14 @@ How to use the KS test as a tool to evaluate class separability on binary classi
 
 __
 
+## Decile Gain Lift
+
+Article: *Evaluating the potential return of a model with Lift, Gain, and Decile Analysis* (TBD)
+
+This article shows how to use Lift, Gain, and Decile Analysis to understand the benefit and return of our classification models.
+
+__
+
 ## Target Encoder
 
 Article: *Understanding Target Encoder* (TBD)
