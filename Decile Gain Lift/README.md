@@ -14,6 +14,10 @@ ___
 
 Main notebook used for creating the examples of the article.
 
+*Lift and Gain - Multiclass Classification.ipynb*
+
+Notebook with OvO and OvR plots of Lift and Gain curves.
+
 *images/*
 
 Folder with the images used on the article.
