@@ -44,7 +44,7 @@ Article 1: *Comparing sample distributions with Kolmogorov-Smirnov test* [[EN]](
 
 Introduction to the Kolmogorov-Smirnov (KS) test, and how it is used in normality tests. How to use KS tests to compare two samples and discover if they come from the same distribution. 
 
-Article 2: *Evaluating classification models with Kolmogorov-Smirnov test* (TBD)
+Article 2: *Evaluating classification models with Kolmogorov-Smirnov test* [[EN]](https://towardsdatascience.com/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573)
 
 How to use the KS test as a tool to evaluate class separability on binary classifiers. Experimental approach comparing three different classification scenarios.
 
