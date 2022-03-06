@@ -14,18 +14,6 @@ Explains how MAE, MSE and RMSE metrics for regression evaluation are affected by
 
 __
 
-## Boruta SHAP
-
-Article 1: *Using SHAP Values to explain how your machine learning model works* [[EN]](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
-
-What are SHAP values and how they explain the effect each feature of the model has on the prediction. How to use the SHAP library and their plots. How SHAP values are calculated.
-
-Article 2: *Boruta SHAP: an amazing tool for feature selection every data scientist should know* [[EN]](https://towardsdatascience.com/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0)
-
-What is Boruta and why is it a robust feature selection method. How to make Boruta better by using SHAP as a feature importance score. Using the Boruta-SHAP library to perform the feature selection.
-
-__
-
 ## ROC Curve and ROC AUC
 
 Article 1: *Interpreting ROC Curve and ROC AUC for Classification Evaluation* [[EN]](https://towardsdatascience.com/interpreting-roc-curve-and-roc-auc-for-classification-evaluation-28ec3983f077)
@@ -35,6 +23,18 @@ What are ROC Curves, how to interpret and use them to evaluate binary classifica
 Article 2: *Multiclass classification evaluation with ROC Curves and ROC AUC* (TBD)
 
 How to use the "One versus Rest" (OvR) and "One versus One" (OvO) strategies to adapt ROC Curves and ROC AUC for multiclass classification.
+
+__
+
+## Boruta SHAP
+
+Article 1: *Using SHAP Values to explain how your machine learning model works* [[EN]](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
+
+What are SHAP values and how they explain the effect each feature of the model has on the prediction. How to use the SHAP library and their plots. How SHAP values are calculated.
+
+Article 2: *Boruta SHAP: an amazing tool for feature selection every data scientist should know* [[EN]](https://towardsdatascience.com/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0)
+
+What is Boruta and why is it a robust feature selection method. How to make Boruta better by using SHAP as a feature importance score. Using the Boruta-SHAP library to perform the feature selection.
 
 __
 
@@ -55,6 +55,14 @@ __
 Article: *Evaluating the potential return of a model with Lift, Gain, and Decile Analysis* (TBD)
 
 This article shows how to use Lift, Gain, and Decile Analysis to understand the benefit and return of our classification models.
+
+__
+
+## Model Stability
+
+Article: *Checking model stability and population shift with PSI and CSI* (TBD)
+
+Shows how to use PSI (Population Stability Index) and CSI (Characteristic Stability Index) to verify the stability and data shift of the model in production.
 
 __
 
