@@ -1,6 +1,6 @@
 # Target Encoder
 
-Article: *Understanding Target Encoder*
+Article: *Dealing with Categorical Variables by using Target Encoder*
 
 [EN] Introduction to the idea behind Target Encoder, code examples and potential problems when using it. How to use Target Encoding in multiclass scenarios.
 
