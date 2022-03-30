@@ -2,7 +2,7 @@
 
 Article: *Checking model stability and population shift with PSI and CSI*
 
-[EN] Shows how to use PSI (Population Stability Index) and CSI (Characteristic Stability Index) to verify the stability and data shift of the model in production.
+[[EN]](https://towardsdatascience.com/checking-model-stability-and-population-shift-with-psi-and-csi-6d12af008783) Shows how to use PSI (Population Stability Index) and CSI (Characteristic Stability Index) to verify the stability and data shift of the model in production.
 
 [PT-BR] Mostra como usar PSI (Population Stability Index) e CSI (Characteristic Stability Index) para verificar a estabilidade de um modelo em produção e a mudança nos dados.
 
