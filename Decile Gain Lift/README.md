@@ -2,7 +2,7 @@
 
 Article: *Evaluating the potential return of a model with Lift, Gain, and Decile Analysis*
 
-[EN] This article shows how to use Lift, Gain, and Decile Analysis to understand the benefit and return of our classification models.
+[[EN]](https://towardsdatascience.com/evaluating-the-potential-return-of-a-model-with-lift-gain-and-decile-analysis-319f00fde5b6) This article shows how to use Lift, Gain, and Decile Analysis to understand the benefit and return of our classification models.
 
 [PT-BR] Este artigo mostra como usar Lift e Gain e Análise de Decis para entender o benefício e o retorno trazidos pelos nossos modelos de classificação.
 

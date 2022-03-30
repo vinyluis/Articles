@@ -20,7 +20,7 @@ Article 1: *Interpreting ROC Curve and ROC AUC for Classification Evaluation* [[
 
 What are ROC Curves, how to interpret and use them to evaluate binary classification models. How to build ROC Curves from scratch. What is Area Under ROC Curve (ROC AUC / AUROC) and how it is used to evaluate binary classification models.
 
-Article 2: *Multiclass classification evaluation with ROC Curves and ROC AUC* (TBD)
+Article 2: *Multiclass classification evaluation with ROC Curves and ROC AUC* [[EN]](https://towardsdatascience.com/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a)
 
 How to use the "One versus Rest" (OvR) and "One versus One" (OvO) strategies to adapt ROC Curves and ROC AUC for multiclass classification.
 
@@ -52,7 +52,7 @@ __
 
 ## Decile Gain Lift
 
-Article: *Evaluating the potential return of a model with Lift, Gain, and Decile Analysis* (TBD)
+Article: *Evaluating the potential return of a model with Lift, Gain, and Decile Analysis* [[EN]](https://towardsdatascience.com/evaluating-the-potential-return-of-a-model-with-lift-gain-and-decile-analysis-319f00fde5b6)
 
 This article shows how to use Lift, Gain, and Decile Analysis to understand the benefit and return of our classification models.
 
@@ -60,7 +60,7 @@ __
 
 ## Model Stability
 
-Article: *Checking model stability and population shift with PSI and CSI* (TBD)
+Article: *Checking model stability and population shift with PSI and CSI* [[EN]](https://towardsdatascience.com/checking-model-stability-and-population-shift-with-psi-and-csi-6d12af008783)
 
 Shows how to use PSI (Population Stability Index) and CSI (Characteristic Stability Index) to verify the stability and data shift of the model in production.
 
@@ -68,7 +68,7 @@ __
 
 ## Target Encoder
 
-Article: *Understanding Target Encoder* (TBD)
+Article: *Dealing with Categorical Variables by using Target Encoder* [[EN]](https://towardsdatascience.com/dealing-with-categorical-variables-by-using-target-encoder-a0f1733a4c69)
 
 Introduction to the idea behind Target Encoder, code examples and potential problems when using it. How to use Target Encoding in multiclass scenarios.
 
